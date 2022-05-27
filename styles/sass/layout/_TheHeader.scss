@@ -1,0 +1,39 @@
+/* HEADER */
+/* ================================== */
+#header {
+  height: 8rem;
+  background-color: var(--color-primary);
+  padding: 1rem 0;
+  max-height: 8rem;
+}
+.heading{
+  height: 6rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  &__logo {
+    font-size: var(--text-big);
+    color: var(--color-text-primary);
+    line-height: 1.2;
+    font-weight: bold;
+  }
+  &__navigation{
+    &-list {
+      display: flex;
+      align-items: center;
+      gap: 2rem;
+      color: var(--color-text-secondary);
+    }
+    &-list-item {
+      list-style: none;
+    }
+    &-list-item a {
+      transition: color 0.3s ease-in-out;
+      font-size: var(--text-normal);
+    }
+    &-list-item a:hover {
+      color: var(--color-active);
+    }
+  }
+}
+

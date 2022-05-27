@@ -1,0 +1,19 @@
+.quote {
+  background-color: var(--color-secondary);
+  &__wrapper {
+    display: flex;
+    flex-direction: column;
+    max-width: 80rem;
+    padding: 4rem 0;
+    margin-inline: auto;
+    font-size: var(--text-bigger);
+    line-height: 1.1;
+    font-weight: 300;
+    font-style: italic;
+    .quote-author {
+      text-align: right;
+      margin-top: 2rem;
+      font-weight: 700;
+    }
+  }
+}
