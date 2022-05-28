@@ -1,5 +1,5 @@
 
-# BrainestCssAssigment [Live site](https://rickandmorty-ed677.web.app/)
+# BrainestCssAssigment [Live site](https://archezi.github.io/BrainestCssAssigment/)
 ![Rick and Morty App](https://ams02pap001files.storage.live.com/y4mkXjCHZ8Jxe8PEvBI7XIxMsEnJQj4CCo2hpdztMv6SaWQGfWT0ANWTkEn0IJ3IZL7ia1aTh3n5sfQdZidFY04PJ_LzA31ejOFP0xBLMZfrto4uqnZkSdil3O4XMnmNn31y1PX7ae3zkZPlfe1GqTFSxVcfeW758eTYmnY-ioEFonQvrVLA8502kbfRAOXnsMO?width=1440&height=864&cropmode=none)
 
 ## **Assignment (Main CSS Project):**
